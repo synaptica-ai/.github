@@ -14,7 +14,7 @@ Synaptica is an emerging company at the forefront of the AI revolution, offering
 
 ## Getting Started
 
-To learn more about Synaptica and how our platform can benefit your organization, please contact our sales team at sales@synaptica.com or visit our website at [synaptica.tech](https://synaptica.tech).
+To learn more about Synaptica and how our platform can benefit your organization, please contact our sales team at sales@synaptica.tech or visit our website at [synaptica.tech](https://synaptica.tech).
 
 ## Support
 
